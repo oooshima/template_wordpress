@@ -1,0 +1,14 @@
+@import "destyle";
+@import "variables";
+@import "mixin";
+
+html {
+  font-family: Arial;
+  color: $main-color;
+  font-size: 18px;
+}
+
+body {
+  background-color: $base-color;
+  position: relative;
+}
